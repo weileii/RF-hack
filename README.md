@@ -1,5 +1,9 @@
 # RF Tools — Raspberry Pi Pico W
 
+![MicroPython](https://img.shields.io/badge/MicroPython-1.20%2B-blue?style=flat-square&logo=micropython)
+![Raspberry Pi Pico W](https://img.shields.io/badge/Hardware-Raspberry%20Pi%20Pico%20W-red?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 An experimental RF monitoring project based on the Raspberry Pi Pico W, CC1101 433 MHz module, and nRF24L01.
 
 The project features a web-based interface inspired by portable RF diagnostic tools. Its main purpose is passive radio activity monitoring, RSSI measurements, and real-time waterfall visualization.
