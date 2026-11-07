@@ -142,4 +142,4 @@ Always follow local radio regulations and privacy requirements.
 
 ## Author
 
-Hobby project — RF Tools for Raspberry Pi Pico W.
+weieli
