@@ -225,5 +225,6 @@ It does **not** test wireless transmission, reception, signal range, or antenna 
 This test only performs local register read/write operations. It does not transmit RF signals or replay remote-control codes.
 
 
-![Schemat układu](assets/rfhh.jpg)
+![Schema](rfhh.jpg)
+
 
